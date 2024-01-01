@@ -19,3 +19,8 @@ The Web Notes Firefox Extension allows users to take notes on web pages and save
    - Click on "Load Temporary Add-on...".
    - Navigate to the extension directory and select the `manifest.json` file.
 
+## Usage
+
+- Click on the extension icon in the Firefox toolbar to activate the note-taking feature.
+- Click on specific elements of a webpage to add notes related to them.
+- Notes are saved locally and can be accessed whenever the extension is active.
